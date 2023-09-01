@@ -1,5 +1,7 @@
 # Calculator App
 
+![Screenshot](public/screenshot.png)
+
 This is a simple calculator web application built using React. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Features
