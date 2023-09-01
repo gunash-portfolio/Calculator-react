@@ -47,3 +47,20 @@ The application will be available at `http://localhost:3000` in your web browser
 - AC button clears the input.
 - DEL button deletes the last digit.
 - Click the "=" button to evaluate the expression and see the result.
+
+## Contributing
+
+If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them to your branch.
+4. Push your changes to your fork.
+5. Submit a pull request to the original repository.
+
+## License
+This project is licensed under the MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Acknowledgments
+- This project was created as a simple example of a React-based web - application.
+- Special thanks to the React community and its contributors for building and maintaining the framework.
